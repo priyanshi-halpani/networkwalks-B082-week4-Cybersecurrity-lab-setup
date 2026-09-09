@@ -33,6 +33,7 @@ The weakness allowed access to the **patient report functionality**, which shoul
 
 **Key Outcome:**
 - Access to patient report functionality was successfully demonstrated.
+<img width="958" height="401" alt="m1" src="https://github.com/user-attachments/assets/7a8d9365-79f4-4d74-91c8-3787876b4e73" />
 
 ---
 
@@ -45,6 +46,9 @@ The reports were stored as **password-protected PDF documents**. During testing,
 **Key Outcome:**
 - Three protected patient reports were successfully accessed.
 - The findings demonstrated weaknesses in the protection of sensitive patient information.
+<img width="887" height="427" alt="mmm2" src="https://github.com/user-attachments/assets/7f5efbb7-5556-4ee8-b3cf-9a0a55fc0aa0" />
+<img width="606" height="396" alt="mm2" src="https://github.com/user-attachments/assets/2eca69e7-f646-497c-afa1-0f459567b02c" />
+<img width="433" height="305" alt="m2" src="https://github.com/user-attachments/assets/5c36fe19-a997-4d5b-bfdf-5ff299429084" />
 
 ---
 
@@ -60,6 +64,9 @@ Testing resulted in access to:
 **Key Outcome:**
 
 The findings demonstrated that sensitive organizational information was not sufficiently protected within the assessed environment.
+Extracted the hidden information and using that clue in comments , found the /old repository.
+<img width="626" height="271" alt="Screenshot 2026-09-09 170752" src="https://github.com/user-attachments/assets/947e670a-0ead-42ca-8139-f80a9b30d86a" />
+<img width="418" height="174" alt="Screenshot 2026-09-09 170918" src="https://github.com/user-attachments/assets/d44ae3cd-cf0f-4e4c-a259-c47cdbc52672" />
 
 ---
 
@@ -129,23 +136,7 @@ Tools used during the assessment may include:
 
 ---
 
-## Security Testing Approach
 
-The assessment followed a structured approach:
 
-```text
-Reconnaissance
-      ↓
-Application Analysis
-      ↓
-Access Control Testing
-      ↓
-Sensitive Data Assessment
-      ↓
-Validation & Evidence Collection
-      ↓
-Risk Assessment
-      ↓
-Remediation Recommendationseek4-Cybersecurrity-lab-setup
 
 ## This repository is intended strictly for educational and authorized cybersecurity testing purposes.
